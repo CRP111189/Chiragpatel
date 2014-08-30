@@ -1,0 +1,15 @@
+SMAP
+allcookies_jsp.java
+JSP
+*S JSP
+*F
++ 0 allcookies.jsp
+allcookies.jsp
+*L
+5,20:45
+24,7:65
+31,2:72,3
+33,2:78
+35,11:81
+45,9:92
+*E
